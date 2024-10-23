@@ -35,4 +35,4 @@
   <a href = "mailto:alanengem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/alanbrunoscience/alanbrunoscience/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/alanbrunoscience/alanbrunoscience/blob/output/github-snake.svg)
