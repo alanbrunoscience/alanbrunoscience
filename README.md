@@ -4,7 +4,7 @@
   <ul>
     <li>🔭 I’m currently working on Full Stack Development;</li>
     <li>🌱 I’m currently learning Java;</li>
-    <li>👏🏻 I belong to Jesus;</li>
+    <li>⚡ I belong to Jesus;</li>
     <li>🥋 My favorite sport is Karate.</li>
   <ol>
 </div>
