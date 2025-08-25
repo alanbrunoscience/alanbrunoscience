@@ -6,7 +6,7 @@
     <li>🌱 I’m currently learning JavaScript and Typescript;</li>
     <li>⚡ I belong to Jesus;</li>
     <li>🥋 My favorite sport is Karate.</li>
-  <ol>
+  <ul>
 </div>
 <br>
 <div>
