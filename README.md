@@ -3,7 +3,7 @@
 <div>
   <ul>
     <li>🔭 I’m currently working on Full Stack Development;</li>
-    <li>🌱 I’m currently learning JavaScript and Typescript;</li>
+    <li>🌱 I’m currently learning Java and Spring Boot;</li>
     <li>⚡ I belong to Jesus;</li>
     <li>🥋 My favorite sport is Karate.</li>
   <ul>
